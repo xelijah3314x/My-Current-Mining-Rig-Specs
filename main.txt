@@ -1,0 +1,11 @@
+|||Main (GPU Mining)
+PSU:          1,000QG
+RAM:          2 Sticks DDR4 4G
+SSD:          500G SSD Drive
+Motherboard:  Gigabyte GA-H110-D3A
+CPU:          Intel I5
+
+|||Laptop (CPU Mining)
+CPU:          Intel I5
+
+Total Profit After Electricity ~ $0.59 USD / Day
